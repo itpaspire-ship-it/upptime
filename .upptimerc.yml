@@ -14,8 +14,9 @@ sites:
   - name: IPv6 test
     url: forwardemail.net
   - name: bondsupermart
-    url: https://www.bondsupermart.com 
-    port: 80
+    url: https://www.bondsupermart.com
+  - name: infinityfa
+    url: https://www.infinityfa.com.sg/Ecosystem/account/login 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
