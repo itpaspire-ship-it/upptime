@@ -13,6 +13,10 @@ sites:
     url: https://fsmone.com    
   - name: bondsupermart
     url: https://www.bondsupermart.com
+  - name: bondsupermart API
+    url: https://service.bondsupermart.com/service
+  - name: bondsupermart API 2
+    url: https://service.ifastbond.com/service   
   - name: infinityfa
     url: https://www.infinityfa.com.sg/Ecosystem/account/login 
 
