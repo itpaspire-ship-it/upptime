@@ -21,7 +21,8 @@ sites:
     url: https://www.infinityfa.com.sg/Ecosystem/account/login 
   - name: infinityfa admin
     url: https://admin.infinityfa.com.sg
-    
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
