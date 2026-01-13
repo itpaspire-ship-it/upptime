@@ -21,7 +21,7 @@ sites:
     url: https://www.infinityfa.com.sg/Ecosystem/account/login 
   - name: infinityfa admin
     url: https://admin.infinityfa.com.sg
-  - name: Test Broken Site
+  - name: Test Broken Site 2
     url: https://thissitedoesnotexist.koj.co    
 
 status-website:
