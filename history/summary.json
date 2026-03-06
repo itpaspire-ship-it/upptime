@@ -62,19 +62,19 @@
     "url": "https://fsmone.com",
     "icon": "https://icons.duckduckgo.com/ip3/fsmone.com.ico",
     "slug": "fsmone",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 421,
-    "timeWeek": 829,
-    "timeMonth": 906,
-    "timeYear": 959,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 954,
+    "timeDay": 511,
+    "timeWeek": 801,
+    "timeMonth": 897,
+    "timeYear": 954,
     "dailyMinutesDown": {
-      "2026-03-06": 1
+      "2026-03-06": 36
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://www.bondsupermart.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bondsupermart.com.ico",
     "slug": "bondsupermart",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 565,
-    "timeWeek": 1004,
-    "timeMonth": 1159,
-    "timeYear": 1135,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 1132,
+    "timeDay": 759,
+    "timeWeek": 998,
+    "timeMonth": 1153,
+    "timeYear": 1132,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 36
     }
   },
   {
