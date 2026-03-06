@@ -62,10 +62,10 @@
     "url": "https://fsmone.com",
     "icon": "https://icons.duckduckgo.com/ip3/fsmone.com.ico",
     "slug": "fsmone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 959,
@@ -73,16 +73,18 @@
     "timeWeek": 829,
     "timeMonth": 906,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-06": 1
+    }
   },
   {
     "name": "bondsupermart",
     "url": "https://www.bondsupermart.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bondsupermart.com.ico",
     "slug": "bondsupermart",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +93,9 @@
     "timeWeek": 1004,
     "timeMonth": 1159,
     "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-06": 0
+    }
   },
   {
     "name": "bondsupermart API",
