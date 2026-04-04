@@ -138,9 +138,9 @@
     "url": "https://www.infinityfa.com.sg/Ecosystem/account/login",
     "icon": "https://icons.duckduckgo.com/ip3/www.infinityfa.com.sg.ico",
     "slug": "infinityfa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +149,9 @@
     "timeWeek": 965,
     "timeMonth": 921,
     "timeYear": 932,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-04": 0
+    }
   },
   {
     "name": "infinityfa admin",
